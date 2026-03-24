@@ -1,0 +1,16 @@
+
+> frontend@1.0.0 dev
+> vite
+
+[33mThe CJS build of Vite's Node API is deprecated. See https://vitejs.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+
+  VITE v5.2.3  ready in 233 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+2:05:56 PM [vite] hmr update /src/components/Dashboard.jsx, /src/index.css
+2:06:13 PM [vite] hmr update /src/components/Dashboard.jsx, /src/index.css
+2:31:55 PM [vite] hmr update /src/components/Search.jsx, /src/index.css
+3:05:51 PM [vite] hmr update /src/components/Dashboard.jsx, /src/index.css
+3:06:16 PM [vite] hmr update /src/App.jsx, /src/index.css

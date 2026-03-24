@@ -1,0 +1,16 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env*
+
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# macOS
+.DS_Store
+
+# AI artifacts
+.gemini/
